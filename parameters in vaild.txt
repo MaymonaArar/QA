@@ -1,0 +1,1 @@
+bool Check(int status, string name, char startChar, char endChar)

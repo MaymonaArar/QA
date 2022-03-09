@@ -1,1 +1,4 @@
 bool Check(int status, string name, char startChar, char endChar)
+
+call function in python
+my_function("Emil", "Tobias", "Linus","google")

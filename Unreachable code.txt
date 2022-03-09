@@ -1,0 +1,12 @@
+string CheckResult(int status){
+if(status == 0){
+return "N/A";
+} else {
+if(status == 0){
+Console.WriteLine("Exit"); // These line is unreachable
+}
+return "Pass";
+}
+Console.WriteLine("Exit"); // These line is unreachable
+return "Pass";// These line is unreachable
+}
